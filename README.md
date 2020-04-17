@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/figonzal1/Lotro-songs/blob/master/logo.png" width="200" height="200">
+  <img src="https://github.com/figonzal1/Lotro-songs/blob/master/logo.png" width="400" height="200">
 </p>
 <h1 align="center">Lotro-songs pack</h1>
 
