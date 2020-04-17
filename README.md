@@ -3,7 +3,18 @@
 </p>
 <h1 align="center">Lotro-songs pack</h1>
 
+<p align="center">
+  <a href="https://img.shields.io/github/license/figonzal1/Lotro-songs">
+    <img alt="GitHub" src="https://img.shields.io/github/license/figonzal1/Lotro-songs">
+  </a>
+  
+  <a href="https://img.shields.io/github/repo-size/figonzal1/Lotro-songs">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/figonzal1/Lotro-songs">
+  </a>
+</p>
+
 <p align="center">This repo is a recopilation of various packs of songs that I found on the Internet</p>
+
 
 ## How to install?
 - Make directory ``Music`` in ``C:\Users\<your-user>\Documents\The Lord of the Rings Online``
